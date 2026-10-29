@@ -1,0 +1,5 @@
+# 本程序运行不需要任何第三方库：Python 3.9+ 标准库 + tkinter 即可。
+# 仅以下工具脚本需要 Pillow（可选）：
+#   tools/make_icon.py     生成程序图标
+#   tools/screenshot.py / tools/make_docs.py / tools/demo_run.py   生成截图
+# 安装方式：pip install pillow

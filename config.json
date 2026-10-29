@@ -1,0 +1,19 @@
+{
+  "source": "auto",
+  "custom_base": "",
+  "threads": 16,
+  "retries": 3,
+  "timeout": 20,
+  "verify_sha1": true,
+  "allow_insecure_tls": true,
+  "fallback_official": true,
+  "java_dir": "C:\\Users\\xiexi\\MCDownloader\\minecraft",
+  "apk_dir": "C:\\Users\\xiexi\\MCDownloader\\apk",
+  "download_assets": true,
+  "download_libraries": true,
+  "download_logging": true,
+  "apk_source": "archive",
+  "apk_index_url": "",
+  "window_size": "1200x820",
+  "log_visible": true
+}
